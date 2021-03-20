@@ -20,3 +20,5 @@ Bin32
 Bin64
 BinLib
 BinTemp
+
+*.dxil
