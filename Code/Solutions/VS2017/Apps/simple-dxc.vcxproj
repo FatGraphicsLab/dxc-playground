@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Samples\02-SimpleDxc\simple-dxc.cpp" />
+    <ClCompile Include="..\..\..\Samples\03-SimpleDxc\simple-dxc.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

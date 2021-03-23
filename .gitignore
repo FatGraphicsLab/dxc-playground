@@ -21,4 +21,6 @@ Bin64
 BinLib
 BinTemp
 
-*.dxil
+*.dxo
+*.ref
+*.pdb

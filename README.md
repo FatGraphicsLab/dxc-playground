@@ -1,6 +1,7 @@
 # dxc playgournd
 
 * have a try of dxc
+* https://github.com/kasicass/blog/blob/master/3d-themachinery/2021_03_22_hlsl_compiler.md
 
 
 
